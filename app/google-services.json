@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540524008727",
+    "firebase_url": "https://opt-login-d14bb.firebaseio.com",
+    "project_id": "opt-login-d14bb",
+    "storage_bucket": "opt-login-d14bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540524008727:android:442325abf15bfa026ed352",
+        "android_client_info": {
+          "package_name": "com.papahades.optlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540524008727-sre937bpho29jp3t4go9pjrb6urt5a5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWgPqIZWfWhwqScyeOBY38xCgtOyxquio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540524008727-sre937bpho29jp3t4go9pjrb6urt5a5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
